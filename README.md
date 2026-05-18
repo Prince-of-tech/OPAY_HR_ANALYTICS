@@ -210,7 +210,7 @@ This dashboard analyzes employee training activities and HR investment. It helps
 
 ## Dashboard Preview
 
-![Training & HR Investment Dashboard](images/training-dashboard.png)
+![Training & HR Investment Dashboard](https://github.com/Prince-of-tech/OPAY_HR_ANALYTICS/blob/main/DASHBOARD%203.png)
 
 ---
 
@@ -241,5 +241,5 @@ This project successfully:
 
 # Author
 
-## Kayode Peace
-Data Analyst | HR Analytics | Dashboard Design | Business Intelligence
+## Kayode Peace Oluwatimilehin
+Data Analyst | HR Analytics
