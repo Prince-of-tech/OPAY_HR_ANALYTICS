@@ -241,5 +241,5 @@ This project successfully:
 
 # Author
 
-## Kayode Peace Oluwatimilehin
-Data Analyst | HR Analytics
+## Kayode Peace 
+Data Analyst
