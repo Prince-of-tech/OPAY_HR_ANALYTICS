@@ -1,7 +1,7 @@
 # HR Analytics Dashboard Project
 
 ## Project Overview
-This project focuses on analyzing HR data and transforming raw employee records into actionable business insights using Microsoft Excel.
+This project focuses on analyzing OPAY HR data and transforming raw employee records into actionable business insights using Microsoft Excel.
 
 The project involved:
 - Cleaning and preparing HR datasets
