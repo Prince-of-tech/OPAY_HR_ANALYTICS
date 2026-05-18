@@ -108,9 +108,7 @@ This dashboard focuses on workforce distribution and employee demographics acros
 
 ## Dashboard Preview
 
-![Workforce Overview Dashboard](DASHBOARD 1.png)
-
-![Performance & Engagement Dashboard](images/performance-dashboard.png)
+![Workforce Overview Dashboard](https://github.com/Prince-of-tech/OPAY_HR_ANALYTICS/blob/main/DASHBOARD%201.png)
 
 ---
 
