@@ -159,7 +159,7 @@ This dashboard focuses on employee performance, engagement, satisfaction, and wo
 
 ## Dashboard Preview
 
-![Performance & Engagement Dashboard](images/performance-dashboard.png)
+![Performance & Engagement Dashboard]([images/performance-dashboard.png](https://github.com/Prince-of-tech/OPAY_HR_ANALYTICS/blob/main/DASHBOARD%202.png))
 
 ---
 
