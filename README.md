@@ -108,8 +108,7 @@ This dashboard focuses on workforce distribution and employee demographics acros
 
 ## Dashboard Preview
 
-![Workforce Overview Dashboard](OPAY_HR_ANALYTICS
-/DASHBOARD 1.png)
+![Workforce Overview Dashboard](OPAY_HR_ANALYTICS/DASHBOARD 1.png)
 
 ---
 
